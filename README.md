@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spatial analysis, Big data analysis, and Data visualization**
 
-- 👨‍💻 All of my projects are available at [github.com/rvabejay](github.com/rvabejay)
+- 👨‍💻 All of my projects are available at [https://github.com/rvabejay](https://github.com/rvabejay)
 
 - 💬 Ask me about **statistics and data analysis, visualization, and science**
 
