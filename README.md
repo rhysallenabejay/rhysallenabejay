@@ -5,7 +5,7 @@
 
 - 🗂️ Projects: Modeling and Dashboarding (Internship), Food Pulse (CMSC 127 Project), and more in my other github page.
 
-- 👨‍💻 Known programming languages: Python, C, Java
+- 👨‍💻 Known programming languages: Python, C++, Java, JavaScript, R
 
 - 📖 Hobbies: Reading manga/manhwa/manhuas, scrolling on Twitter, walking,jogging, and hiking, sleeping a lot ><
 
